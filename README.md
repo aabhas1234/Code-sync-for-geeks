@@ -1,0 +1,1 @@
+Developed a sleek, user-friendly dashboard that consolidates coding activities across platforms like LeetCode, GeeksforGeeks, and Codeforces. Users can effortlessly navigate achievements , problem-solving history and track their progress over time.
