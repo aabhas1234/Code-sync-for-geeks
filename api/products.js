@@ -6,7 +6,7 @@ const multer = require('multer');
 const {v4: uuidv4} = require('uuid');
 const path = require('path');
 
-// commment by abhay 
+// commment by aabhas
 const DIR = './public/'; 
 const storage = multer.diskStorage({
     destination: (req, file, cb) => {
